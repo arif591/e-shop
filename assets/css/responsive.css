@@ -9,6 +9,11 @@
         transform: translate(-80%, -50%);
     }
 
+    /* Offers CSS */
+    .offers .offer-box .offer-info .heading-bigger {
+        font-size: 3rem;
+    }
+
     /* Special rwd */
 }
 @media (max-width:991px) {
@@ -42,8 +47,6 @@
     .home .home-banner .home-banner-text .btn-danger {
         padding: 0.5rem 1.5rem;
     }
-
-    /* Offers rwd */
 
     /* Products rwd */
 
