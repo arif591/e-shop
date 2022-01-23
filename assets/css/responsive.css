@@ -15,6 +15,9 @@
     }
 
     /* Special rwd */
+    .special .countdown-container .countdown-counter li {
+        padding: 1.1rem 1rem;
+    }
 }
 @media (max-width:991px) {
     /* Home rwd */
@@ -23,6 +26,10 @@
     }
 
     /* Special rwd */
+    .special .countdown-container {
+        padding-top: 1rem;
+        padding-bottom: 5rem;
+    }
 
     /* Testimonial rwd */
 }
@@ -54,6 +61,13 @@
     }
 
     /* Special rwd */
+    .special {
+        padding: 4rem 0;
+    }
+    .special .countdown-container .countdown-counter li {
+        font-size: 0.575rem;
+        padding: 1rem;
+    }
 
     /* Testimonial rwd */
 }
