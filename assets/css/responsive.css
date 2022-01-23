@@ -49,6 +49,9 @@
     }
 
     /* Products rwd */
+    .products .up_to_content h2 {
+        font-size: 0.75rem;
+    }
 
     /* Special rwd */
 
